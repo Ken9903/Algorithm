@@ -40,11 +40,5 @@ int main()
 		cout << -1;
 	}
 
-	/*
-	for (int i = 0; i < input.length(); i++)
-	{
-		cout << arr[i] << endl;
-	}
-	*/
 }
 
